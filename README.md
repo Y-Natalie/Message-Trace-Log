@@ -1,4 +1,3 @@
-#This space contains codes designed to facilitate the DFIR analysis process
+Python script to extract email addresses from Message Trace Log
 
-
-#Codes are scripted using the Python language 
+Run under WSL or with Python3 in Windows py /path/to/source/MessageTraceDelivered.py

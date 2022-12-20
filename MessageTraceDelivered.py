@@ -1,3 +1,6 @@
+# Creator = Natalie Yuen
+# Extract distinct emails with "Delivered" status + count the number of emails with the specified domain from the Message Trace Log
+
 file = input("What is the file name? (include .txt): ")
 try:
     f = open(file, 'r')
